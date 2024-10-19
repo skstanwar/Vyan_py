@@ -1,7 +1,9 @@
 altair==5.4.1
+annotated-types==0.7.0
 blinker==1.8.2
 cachetools==5.5.0
 click==8.1.7
+fastapi==0.115.2
 gitdb==4.0.11
 GitPython==3.1.43
 narwhals==1.9.4
@@ -12,13 +14,17 @@ protobuf==5.28.2
 pyarrow==17.0.0
 pyasynchat==1.0.4
 pyasyncore==1.0.4
+pydantic==2.9.2
+pydantic_core==2.23.4
 pydeck==0.9.1
 pyftpdlib==2.0.0
 pyradios==2.1.0
 pytz==2024.2
 smmap==5.0.1
+starlette==0.40.0
 streamlit==1.39.0
 tenacity==9.0.0
 toml==0.10.2
 tzdata==2024.2
+uvicorn==0.32.0
 watchdog==5.0.3
