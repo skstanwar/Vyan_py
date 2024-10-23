@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-You can access the live demo of the application [here](https://github.com/skstanwar/Vyan_py).
+You can access the live demo of the application [here](https://vyan-py.onrender.com/).
 # World Radio Station Search App
 
 ## Overview
